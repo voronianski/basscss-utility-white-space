@@ -1,7 +1,7 @@
 /* Basscss Utility White Space */
 
-@import "./lib/margins";
-@import "./lib/padding";
+@import "./lib/margins.css";
+@import "./lib/padding.css";
 
 :root {
   --space-1: .5rem;
